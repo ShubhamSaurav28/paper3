@@ -11,7 +11,7 @@ body{
     display: inline-flex;
 }
 #first{
-    background-image: url(file:///C:/Users/BPSS/Desktop/paper3/images/banner-bg.webp);
+    background-image: url(images/banner-bg.webp);
     background-repeat: no-repeat;
     background-size:100%;
     border: 2px solid black;
