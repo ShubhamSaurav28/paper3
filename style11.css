@@ -1,0 +1,122 @@
+body{
+    margin: 0px;
+    font-family: Verdana;
+}
+#nav{
+    background-color: white;
+    opacity: 100%;
+    border: 0px solid black;
+    position: fixed;
+    width: 100%;
+    display: inline-flex;
+}
+#first{
+    background-image: url(file:///C:/Users/BPSS/Desktop/paper3/images/banner-bg.webp);
+    background-repeat: no-repeat;
+    background-size:100%;
+    border: 2px solid black;
+    height: 210px;
+    padding-top:300px;
+    text-align: center;
+}
+#big{
+    border: 2px solid black;
+    height: 800px;
+    background-color: bisque;
+}
+#foot{
+    border: 2px solid black;
+    height: 320px;
+}
+.doc{
+    height: 300px;
+    width: 450px;
+    display: inline-block;
+}
+.doc1{
+    margin-top: 50px;
+    height: 300px;
+    width: 400px;
+    display: inline-block;
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color: white;
+}
+#iam{
+    position: relative;
+    top: 10px;
+    border-radius: 50%;
+    height: 70px;
+
+}
+.cv{
+    margin-left: 150px;
+}
+#god{
+    border: 2px solid black;
+    height: 200px;
+    width: 1000px;
+    margin-top: 200px;
+    margin-left: 280px;
+    border-radius: 1em;
+    text-align: center;
+    background-color: white;
+}
+#first h1{
+    position: relative;
+    bottom: 70px;
+}
+#first p{
+    position: relative;
+    bottom: 70px;
+}
+#first button{
+    position: relative;
+    bottom: 70px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: transparent;
+    border-radius: 3px;
+    color: blue;
+    border-color: blue;
+}
+a{
+    text-decoration: none;
+}
+.l{
+    display: inline-flex;
+    padding: 10px;
+}
+ul{
+    margin-left: 200px;
+    text-align: center;
+}
+#im{
+    padding-left: 100px;
+}
+#q{
+    position: absolute;
+    top:1000px;
+    height: 200px;
+    width: 400px;
+}
+#w{
+    position: absolute;
+    top:1000px;
+    height: 200px;
+    width: 400px;
+
+}
+#e{
+    position: absolute;
+    top:1000px;
+    height: 200px;
+    width: 400px;
+
+}
+.doc1 h1{
+    position:relative ;
+    top:250px;
+    font-size: 20px;
+}
